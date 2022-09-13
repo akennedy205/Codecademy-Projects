@@ -8,3 +8,5 @@ Collection of projects completed via Codecademy
 ## Learn CSS (6)
 
 ## Learn Bootstrap (2)
+
+## Learn Colour Design (2)
