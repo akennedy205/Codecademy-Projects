@@ -6,3 +6,5 @@ Collection of projects completed via Codecademy
 ## Learn Javascript (12)
 
 ## Learn CSS (6)
+
+## Learn Bootstrap (2)
